@@ -82,9 +82,7 @@ Foram criadas três VMs Ubuntu Server 24.04 com 4 vCPU, 16 GB de RAM e 100 GB de
 **ZABBIX01, GRAFANA01 e SRV-LINUX01 inicializados.**
 
 ### Evidências registradas
-- Tela das VMs
-- CPU/RAM/disco
-- Sistema operacional instalado
+
 
 ![Fase 02 — VMs e sistemas operacionais](imagens/fase02-vms.png)
 

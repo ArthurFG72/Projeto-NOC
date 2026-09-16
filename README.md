@@ -7,7 +7,7 @@
 
 | Campo | Exemplo |
 |---|---|
-| Aluno(a) / Grupo | Arthur Farias Galvão |
+| Aluno(a)  | Arthur Farias Galvão |
 | Turma | Defesa Cibernética — 2026 |
 | Professor | Frank Philson |
 | Data | 14/09/2026 |

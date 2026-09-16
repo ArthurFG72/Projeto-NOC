@@ -102,10 +102,6 @@ Os três servidores receberam IP estático e foram validados com `ip -br addr`, 
 **As três VMs devem se comunicar e resolver nomes.**
 
 ### Evidências registradas
-- ip -br addr
-- ip route
-- ping entre VMs
-- resolução DNS
 
 ![Fase 03 — IP estático e conectividade](imagens/fase03-conectividade.png)
 

@@ -121,9 +121,6 @@ Os hostnames foram padronizados, os pacotes foram atualizados e o fuso horário 
 **Hostnames corretos e relógios sincronizados.**
 
 ### Evidências registradas
-- hostnamectl
-- timedatectl
-- apt update/upgrade
 
 ![Fase 04 — Preparação Linux](imagens/fase04-preparacao-linux.png)
 

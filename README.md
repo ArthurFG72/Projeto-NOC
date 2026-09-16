@@ -65,9 +65,6 @@ Foi escolhida a rede privada `10.20.30.0/24`, evitando sobreposição com outras
 **Tabela de endereçamento preenchida e diagrama da rede.**
 
 ### Evidências registradas
-- Topologia/CIDR
-- Tabela de IPs e hostnames
-- Justificativa da faixa escolhida
 
 ![Fase 01 — Planejamento e endereçamento](imagens/fase01-planejamento.png)
 
